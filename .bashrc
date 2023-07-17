@@ -10,5 +10,5 @@ alias cl='clear'
 alias ku='/usr/local/bin/kb-light.py + 1'
 alias kd='/usr/local/bin/kb-light.py - 1'
 
-#note to test version 4
+#note to test version 5
 PS1='[\u@\h \W]\$ '
